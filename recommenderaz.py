@@ -1,4 +1,4 @@
-
+# Python Reccommender code for use on Azure ml studio
 class Recc:
 
     def __init__(self,DataFrame1):
